@@ -11,3 +11,11 @@
     border: 0;
     background-color: white;
 }
+
+.color {
+    color: rgb(236, 91, 8);
+}
+
+.col img {
+    background-color: rgb(248, 246, 246);
+}
